@@ -23,3 +23,16 @@ electron has a library for common operations. We can install that via:
 
 yarn add @electron/remote
 ```
+
+```
+yarn electron:serve
+```
+
+
+<img width="692" alt="Screenshot 2023-03-11 at 11 41 35 PM" src="https://user-images.githubusercontent.com/43849911/224504844-ffca1bf3-b4ce-4d96-a09d-c1cabb0ba47e.png">
+
+<img width="1025" alt="Screenshot 2023-03-11 at 11 42 41 PM" src="https://user-images.githubusercontent.com/43849911/224504887-85c3fb93-0c98-421e-aec5-93ac1b7f81dc.png">
+
+
+
+
