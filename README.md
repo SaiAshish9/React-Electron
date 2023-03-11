@@ -33,6 +33,8 @@ yarn electron:serve
 
 <img width="1025" alt="Screenshot 2023-03-11 at 11 42 41 PM" src="https://user-images.githubusercontent.com/43849911/224504887-85c3fb93-0c98-421e-aec5-93ac1b7f81dc.png">
 
-
+```
+Sometimes it's not as straight forward to build on various OS. we can use build pipelines like travisCI and circleCI in such scenarios.
+```
 
 
