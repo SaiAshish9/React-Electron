@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WACE,cACF,CACA,UACE,SACF,CACA,aACE,SACF,CACA,WACE,WACF","file":"main.13a37b96.chunk.css","sourcesContent":[".clickable {\n  cursor: pointer;\n}\n.icon-row {\n  width: 2em;\n}\n.icon-folder {\n  width: 1em;\n}\n.icon-file {\n  width: 0.75em;\n}\n"]}
