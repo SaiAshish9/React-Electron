@@ -17,3 +17,9 @@ index.js and electron main.js
 ```
 
 <img width="1254" alt="Screenshot 2023-03-11 at 11 37 28 PM" src="https://user-images.githubusercontent.com/43849911/224504681-b30aa0af-6bc1-4311-97ec-b611b793c380.png">
+
+```
+electron has a library for common operations. We can install that via:
+
+yarn add @electron/remote
+```
