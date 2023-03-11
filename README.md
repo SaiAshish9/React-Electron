@@ -37,6 +37,7 @@ yarn electron:build
 
 <img width="1436" alt="Screenshot 2023-03-11 at 11 50 32 PM" src="https://user-images.githubusercontent.com/43849911/224505164-008ba489-78dc-4cb5-9f0c-4a7ed501ad97.png">
 
+<img width="1787" alt="Screenshot 2023-03-12 at 1 10 44 AM" src="https://user-images.githubusercontent.com/43849911/224508379-853ac764-d9d7-4f36-95c8-4a7189f75d9f.png">
 
 <img width="692" alt="Screenshot 2023-03-11 at 11 41 35 PM" src="https://user-images.githubusercontent.com/43849911/224504844-ffca1bf3-b4ce-4d96-a09d-c1cabb0ba47e.png">
 
