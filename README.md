@@ -27,12 +27,15 @@ yarn add @electron/remote
 ```
 
 ```
+
+npx create-react-app react-electron
+
+yarn add electron concurrently wait-on cross-env
+
 yarn electron:serve
 
 yarn build
 yarn electron:build
-
-
 ```
 
 <img width="1436" alt="Screenshot 2023-03-11 at 11 50 32 PM" src="https://user-images.githubusercontent.com/43849911/224505164-008ba489-78dc-4cb5-9f0c-4a7ed501ad97.png">
